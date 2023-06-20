@@ -70,6 +70,45 @@
     display: flex;
     justify-content: center;
 }
+.banner-container {
+    height: 300px;
+    width: 40%;
+    background-color: transparent;
+    margin-left: 45%;
+    margin-top: 150px;
+
+}
+.banner-container>h1
+{
+    color: chocolate;
+    font-size: larger;
+    font-style: italic;
+    align-items: center;
+    margin-top:50px ;
+    margin-left: 40%;
+}
+.banner-container>p{
+    color: black;
+    margin-top: 20px;
+    margin-left: 30%;
+    font-size: 15px;
+    font-family: 'Times New Roman', Times, serif;
+     line-height: 2px;
+}
+
+.banner-container>button{
+    margin-top: 20px;
+    margin-left: 40%;
+    border: 1px solid coral;
+    background-color: transparent;
+
+}
+.serch{
+    margin-left: 30%;
+    background-color: transparent;
+
+
+}
 .small-banner{
     width: 80%;
     background-color:rgb(88, 42, 9);
